@@ -1,4 +1,8 @@
 # mlops-git-assignment--Shini-Kim-
+
+Course Code: MAI201
+Date: June 4th, 2026
+
 ML Ops Assignment
 
 ## Project Description
