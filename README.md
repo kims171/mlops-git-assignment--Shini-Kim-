@@ -1,5 +1,8 @@
 # mlops-git-assignment--Shini-Kim-
 ML Ops Assignment
+Name: Shini Kim
+Student ID: skim597
+Student #: 136080256
 
 ## Project Description
 
