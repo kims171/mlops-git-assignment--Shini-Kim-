@@ -4,6 +4,9 @@ Course Code: MAI201
 Date: June 4th, 2026
 
 ML Ops Assignment
+Name: Shini Kim
+Student ID: skim597
+Student #: 136080256
 
 ## Project Description
 
